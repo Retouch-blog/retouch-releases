@@ -1,7 +1,7 @@
 # Retouch Launcher
 
 [![Release](https://img.shields.io/github/v/release/HSEV/retouch-releases?label=derni%C3%A8re%20version)](https://github.com/HSEV/retouch-releases/releases/latest)
-[![Downloads](https://img.shields.io/badge/downloads-802-yellowgreen?style=flat)](https://github.com/HSEV/retouch-releases/releases)
+[![Downloads](https://img.shields.io/endpoint?url=https://retouch.blog/api/downloads.php&style=flat)](https://retouch.blog/#telecharger)
 [![Windows](https://img.shields.io/badge/Windows-blue)](https://github.com/HSEV/retouch-releases/releases/latest)
 [![macOS](https://img.shields.io/badge/macOS-purple)](https://github.com/HSEV/retouch-releases/releases/v1.2.1)
 [![Discord](https://img.shields.io/discord/1528217755474591835?label=discord&logo=discord)](https://discord.gg/U63MHffDQX)
