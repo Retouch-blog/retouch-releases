@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/Retouch-blog/retouch-releases?label=derni%C3%A8re%20version)](https://github.com/Retouch-blog/retouch-releases/releases/latest)
 [![Downloads](https://img.shields.io/endpoint?url=https://retouch.blog/api/downloads.php&style=flat)](https://retouch.blog/#telecharger)
 [![Windows](https://img.shields.io/badge/Windows-blue)](https://github.com/Retouch-blog/retouch-releases/releases/latest)
-[![macOS](https://img.shields.io/badge/macOS-purple)](https://github.com/Retouch-blog/retouch-releases/releases/v1.2.1)
+[![macOS](https://img.shields.io/badge/macOS-purple)]([https://github.com/Retouch-blog/retouch-releases/releases/v1.3.6](https://github.com/Retouch-blog/retouch-releases/releases/download/v1.3.6/Retouch-1.3.6-arm64.dmg))
 [![Discord](https://img.shields.io/discord/1528217755474591835?label=discord&logo=discord)](https://discord.gg/U63MHffDQX)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fretouch.blog&label=Website&logo=googlechrome)](https://retouch.blog)
 
