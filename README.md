@@ -14,7 +14,7 @@
 
 Ce dépôt sert uniquement à la **distribution des builds** de Retouch — c'est ici que tu trouveras toujours la dernière version à télécharger. Site officiel : **[retouch.blog](https://retouch.blog)**
 
-## Téléchargement
+## Téléchargement (Windows)
 
 [![Télécharger Retouch](https://img.shields.io/badge/⬇️_Cliquez_ici_pour_t%C3%A9l%C3%A9charger-Retouch--Setup.exe-2ea44f?style=for-the-badge)](https://github.com/Retouch-blog/retouch-releases/releases/download/v1.3.5/Retouch-1.3.5-Setup.exe)
 
@@ -27,13 +27,32 @@ Ce dépôt sert uniquement à la **distribution des builds** de Retouch — c'es
 
 > ⚠️ Les exécutables ne sont pas signés (pas de certificat payant) - Windows SmartScreen peut afficher un avertissement "éditeur inconnu" au premier lancement. C'est normal pour un projet indépendant : clique sur *Informations complémentaires* → *Exécuter quand même*.
 
+## Téléchargement (macOS)
+
+[![Télécharger pour Apple Silicon](https://img.shields.io/badge/⬇️_Apple_Silicon_(M1%2FM2%2FM3)-Retouch--arm64.dmg-2ea44f?style=for-the-badge)](https://github.com/Retouch-blog/retouch-releases/releases/download/v1.3.6/Retouch-1.3.6-arm64.dmg)
+[![Télécharger pour Mac Intel](https://img.shields.io/badge/⬇️_Mac_Intel-Retouch--x64.dmg-2ea44f?style=for-the-badge)](https://github.com/Retouch-blog/retouch-releases/releases/download/v1.3.6/Retouch-1.3.6-x64.dmg)
+
+> ⚠️ macOS peut bloquer l'ouverture de l'app ("développeur non identifié"), l'app n'étant pas signée avec un certificat Apple payant. Si ça arrive, ouvre le Terminal et lance cette commande :
+> ```bash
+> xattr -dr com.apple.quarantine "/Applications/Retouch Launcher.app"
+> ```
+> Relance ensuite le launcher normalement.
+
 ## Fonctionnalités
 
 - Lance Dofus Touch dans une fenêtre desktop moderne, redimensionnable
 - Toujours synchronisé avec les fichiers officiels du jeu
 - Réglages de résolution (presets ou taille personnalisée), appliqués instantanément
-- Coupe-son fonctionnel
 - Interface sombre, sans bordure système, pensée pour ne pas dénaturer l'expérience de jeu
+- **Multi-compte** : plusieurs comptes ouverts en simultané, chacun dans son propre onglet (barre d'onglets en haut ou sur le côté, au choix)
+- **Suivi de mules (mode Héros)** : les mules suivent automatiquement le héros — changement de carte, téléportation, Zaap, et même les déplacements à l'intérieur d'une carte
+- **"Courir ici"** : un clic sur la carte du monde fait voyager automatiquement le personnage jusqu'à l'endroit choisi, traversée des cartes intermédiaires comprise
+- **Notifications en jeu** : message privé, invitation de groupe ou de combat remontent même depuis un onglet que tu ne regardes pas
+- **Auto-accept configurable** : rejoindre / se mettre prêt automatiquement pour les invitations de combat ou de groupe sur les comptes en arrière-plan, jamais sur celui que tu contrôles activement
+- **Portrait du personnage** en icône d'onglet, capturé directement depuis l'inventaire en jeu
+- **Raccourcis clavier entièrement personnalisables** (sorts, interface, actions de combat...)
+- **Mise à jour automatique** du launcher au démarrage — jamais besoin de retélécharger à la main
+
 
 ## Comment ça marche, sans zone d'ombre
 
