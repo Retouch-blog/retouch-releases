@@ -16,7 +16,7 @@ Ce dépôt sert uniquement à la **distribution des builds** de Retouch — c'es
 
 ## Téléchargement (Windows)
 
-[![Télécharger Retouch](https://img.shields.io/badge/⬇️_Cliquez_ici_pour_t%C3%A9l%C3%A9charger-Retouch--Setup.exe-2ea44f?style=for-the-badge)](https://github.com/Retouch-blog/retouch-releases/releases/download/v1.3.6/Retouch-1.3.6-Setup.exe)
+[![Télécharger Retouch](https://img.shields.io/badge/⬇️_Cliquez_ici_pour_t%C3%A9l%C3%A9charger-Retouch--Setup.exe-2ea44f?style=for-the-badge)](https://github.com/Retouch-blog/retouch-releases/releases/download/v1.3.8/Retouch-1.3.8-Setup.exe)
 
 > ⚠️ Les exécutables ne sont pas signés (pas de certificat payant) - Windows SmartScreen peut afficher un avertissement "éditeur inconnu" au premier lancement. C'est normal pour un projet indépendant : clique sur *Informations complémentaires* → *Exécuter quand même*.
 
